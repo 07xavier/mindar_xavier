@@ -56,7 +56,6 @@
         }
       });
 
-      // Evento de mouseover para cambiar color aleatoriamente
       document.querySelectorAll(".animado").forEach(obj => {
         obj.addEventListener("mouseenter", () => {
           obj.setAttribute("color", getRandomColor());
@@ -65,6 +64,12 @@
           obj.removeAttribute("color");
         });
       });
+
+      setInterval(() => {
+        document.querySelectorAll(".animado").forEach(obj => {
+          obj.setAttribute("color", getRandomColor());
+        });
+      }, 3000);
     </script>
   </body>
 </html>
