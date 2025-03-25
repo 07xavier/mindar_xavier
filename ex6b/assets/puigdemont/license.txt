@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pujoldemont
+* source:	https://sketchfab.com/3d-models/pujoldemont-b0c1514f62594d1fac297d95410bbfe9
+* author:	Breynart Studios (https://sketchfab.com/BreynartStudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pujoldemont" (https://sketchfab.com/3d-models/pujoldemont-b0c1514f62594d1fac297d95410bbfe9) by Breynart Studios (https://sketchfab.com/BreynartStudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

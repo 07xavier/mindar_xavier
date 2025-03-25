@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gaudi_Lizard
+* source:	https://sketchfab.com/3d-models/gaudi-lizard-31e94aef12aa44d89deffc6f391dfaec
+* author:	saehyun806 (https://sketchfab.com/saehyun806)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gaudi_Lizard" (https://sketchfab.com/3d-models/gaudi-lizard-31e94aef12aa44d89deffc6f391dfaec) by saehyun806 (https://sketchfab.com/saehyun806) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
