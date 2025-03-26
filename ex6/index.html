@@ -38,18 +38,22 @@
     </a-entity>
 
       <a-sky src="#imgCasa"></a-sky>
-      <a-sphere position="5 2 -5" radius="1"  src="#imgFantasma"
+      <a-sphere position="-20 2 -5" radius="1"  src="#imgFantasma"
                 animation="property: rotation; dur: 10000;
                        to: 0 360 0; loop: true">          
        </a-sphere>
-      <a-entity gltf-model="#dracula" position="0 -3.5 -5" scale="0.02 0.02 0.02"
-                animation="property: position; dur: 2000; from: 0 -3.5 -5; to: 0 -3 -5; dir: alternate; loop: true">        
+      <a-entity gltf-model="#dracula" position="0 -3.5 -5" rotation="0 90 0" scale="0.02 0.02 0.02"
+                animation="property: position; dur: 2000; from: -20 -3.5 5; to: 0 -3.5 5; dir: alternate; loop: true">        
       </a-entity>
-      <a-plane position="-1.5 0 1.5" src="#imgSortida" rotation="0 150 0"  transparent="true" mylink="href: 
+
+      <a-plane position="-1.5 2 1.5" src="#imgSortida" rotation="0 150 0"  transparent="true" mylink="href: 
       https://07xavier.github.io/mindar_xavier/;"></a-plane>
 
-      <a-plane position="-3.5 0 1.5" src="#imgSortida" rotation="0 150 0"  transparent="true" mylink="href: 
+      <a-plane position="-3.5 2 1.5" src="#imgSortida" rotation="0 150 0"  transparent="true" mylink="href: 
       https://07xavier.github.io/mindar_xavier/ex6b/index.html;"></a-plane>
+
+      <a-plane position="-6.5 2 1.5" src="#imgSortida" rotation="0 150 0"  transparent="true" mylink="href: 
+      https://07xavier.github.io/mindar_xavier/ex5/index.html;"></a-plane>
     </a-scene>
   </body>
 </html>
